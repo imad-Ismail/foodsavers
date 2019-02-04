@@ -1,0 +1,61 @@
+form{
+    font-size: 20px;
+    max-width: 100%;
+}
+
+.knopje{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.knop{
+    width: 50%;
+    background-color: #ef8829;
+    font-size: 20px;
+    color: white;
+    margin-top: 5%;
+    -moz-border-radius-topright: 2em;
+    -moz-border-radius-topleft: 2em;
+    -webkit-appearance: none;
+    border: none;
+    -webkit-border-radius: 24px 0;
+    padding: 2%;
+}
+
+#fileToUpload{
+    font-size: 20px;
+    color: white;
+    width: 90%;
+}
+
+h1{
+    color: #ef8829;
+    text-align: center;
+}
+
+
+#addproduct-categories{
+    background-color: white;
+    border: none;
+}
+
+.addproduct-form-group{
+    margin-left: 10%;
+    border: none;   
+    border-bottom: solid #ef8829 !important;  
+    width: 80%; 
+}
+ 
+input{
+    border: none;
+}
+
+.formDiv{
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+     }

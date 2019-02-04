@@ -1,0 +1,56 @@
+.formDiv{
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    flex: 2;
+    flex-direction: row;
+    justify-content: space-around;    
+    align-items: center;
+}
+  
+  button {
+    margin-top: 35%;
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #ef8829;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 20px;
+  }
+  
+  a {
+    text-decoration: none;
+    font-size: 20px;
+    color: #ef8829;
+  }
+
+  .delete-card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 150px;
+    height: 350px;
+    margin: auto;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 25px;
+  }
+  
+  .delete-card img{
+        width: 150px;
+        height: 150px;
+    }
+
+    h1{
+      text-align: center;
+      margin-top: 25%;
+     color: #ef8829;
+     font-family: 'Raleway';
+    }
+
+.title{
+  margin-top: 5%;
+}
+
